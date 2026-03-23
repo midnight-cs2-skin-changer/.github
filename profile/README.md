@@ -2,13 +2,19 @@
 
 visual soft for Counter-Strike 2 that gives players the ability to change skins, gloves, knives, and stickers in real time. It’s made for those who want complete freedom over their inventory visuals without relying on injection methods. Whether you're customizing for training, video production, or just fun — Sapphire makes CS2 look the way *you* want it to.
 
-<div style="text-align: center">
-  <a href="https://cs2-sapphire-skinchanger.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-CS2_Skinchanger-blueviolet">
-  </a>
-</div>
+---
 
----  
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
+
+---
+
+
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)  
 
 ---  
